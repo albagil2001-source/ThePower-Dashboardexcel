@@ -1,5 +1,6 @@
 # ThePower-Dashboardexcel
 **Proyecto de análisis de un e-commerce del mercado indio**
+
 Incluye la limpieza y transformación de datos, un análisis con tablas dinámicas, un dashboard interactivo y un informe final con conclusiones.
 
 **Objetivo**
