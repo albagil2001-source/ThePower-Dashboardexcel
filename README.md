@@ -59,6 +59,7 @@ Ingresos totales (≈ 10,1 M en el periodo)
 
 % de conversión (≈ 22,5 % de sesiones con compra)
 
+Duración media de sesión (min) y páginas vistas medias
 
 % de sesiones con carrito abandonado
 
@@ -78,5 +79,5 @@ Consulta Informe final para ver las conclusiones.
 Alba Gil 
 
 
-Duración media de sesión (min) y páginas vistas medias
+
 
