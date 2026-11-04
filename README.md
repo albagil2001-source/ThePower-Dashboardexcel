@@ -29,6 +29,8 @@ Tipo de Dipositivo (fuente:web):
 0= ordenador de sobremesa, 1= Móvil, 2=Tableta
 
 Tipo de Usuario(fuente:web):  0=Nuevo , 1= recurrente
+
+
 *(Esta información está sacada de  https://www.kaggle.com/datasets/kundanbedmutha/indian-e-commerce-customer-behavior-and-purchase)*
 
 **Limitaciones**
