@@ -4,14 +4,17 @@
 Incluye la limpieza y transformación de datos, un análisis con tablas dinámicas, un dashboard interactivo y un informe final con conclusiones.
 
 **Objetivo**
+
 Entender cómo navegan, compran y abandonan los usuarios para identificar oportunidades de mejora en conversión, ingresos y retención.
 
 **Dataset**
+
 Fuente: Ecommerce.csv
 Tamaño: 25.000 filas × 29 columnas
 Periodo: 01-01-2024 a 31-10-2024
 
 **Creación de Dashboard con Excel paso a paso:**
+
 Descargamos el conjunto datos de https://www.kaggle.com/datasets/kundanbedmutha/indian-e-commerce-customer-behavior-and-purchase
 
 
@@ -26,10 +29,11 @@ Tipo de Dipositivo (fuente:web):
 0= ordenador de sobremesa, 1= Móvil, 2=Tableta
 
 Tipo de Usuario(fuente:web):  0=Nuevo , 1= recurrente
-
-
-
 *(Esta información está sacada de  https://www.kaggle.com/datasets/kundanbedmutha/indian-e-commerce-customer-behavior-and-purchase)*
+
+**Limitaciones**
+
+Algunos datos están en valor numérico y no proporcionan información de utilidad. Este es el caso de las categorías y medios de pago. Saber a qué categoría y medio de pago corresponde cada número aportaría valor extra al dashboard y nos ayudaría a sacar conclusiones.
 
 **Estructura del libro de Excel**
 
